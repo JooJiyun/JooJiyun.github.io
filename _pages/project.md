@@ -1,5 +1,5 @@
 ---
-title: "프로젝트"
+title: "Project"
 permalink: /categories/project/
 layout: category
 author_profile: true
