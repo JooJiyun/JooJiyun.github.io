@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "default" ,"air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "ko-KR" # "en-US"
-title                    : "Portfolio" #블로그 좌측상단의 제목
+title                    : "Portfolio;" #블로그 좌측상단의 제목
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JooJiyun"

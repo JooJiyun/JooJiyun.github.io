@@ -10,7 +10,9 @@ tags:
 last_modified_at: 2020-03-01T16:09:00
 ---
 
-<h1>STRNAS: </h1><h3>OCR을 위한 NAS 모델 구축</h3>
+<h1>STRNAS: </h1>
+진행 기간: 2019.03 - 2019.07
+<h3>OCR을 위한 NAS 모델 구축</h3>
 <br>
 
 <h4>서론</h4>
