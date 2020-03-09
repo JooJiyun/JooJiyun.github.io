@@ -46,11 +46,11 @@ last_modified_at: 2020-03-08T11:09:00
 
 물론 optimal parameter를 찾는 선형회귀의 parameter를 계속 바꾸어 optimal parametr 또한 계속 바꿔가면서 실험.
 
-![way1](https://joojiyun.github.io/assets/post_project/lipstick_1.png){: .align-center} 
+![way1](https://joojiyun.github.io/assets/post_project/lipsticks_1.png){: .align-center} 
 
 (2) 프로젝트의 원래의 취지와는 별개로 제공되는 어플을 고려하지 않고 바로 화장 후의 색을 추정.
 
-![way2](https://joojiyun.github.io/assets/post_project/lipstick_2.png){: .align-center} 
+![way2](https://joojiyun.github.io/assets/post_project/lipsticks_2.png){: .align-center} 
 
 결과비교는 LAB color space에서 진행. 
 
@@ -146,6 +146,7 @@ loss는 generator loss, descriminator loss, cycle consistency loss에 각각 상
 
 제일 나은 결과를 얻을 수는 있었지만 그리 좋은 결과는 아니었고 blending과 같은 후처리까지 고려해보았지만 사용하기엔 어려웠다.
 
+코드 : <https://github.com/JooJiyun/virtual_makeup>
 
 
 ---
