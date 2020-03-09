@@ -148,7 +148,7 @@ loss는 generator loss, descriminator loss, cycle consistency loss에 각각 상
 
 
 
-
+---
 4) 후기
 
 이 프로젝트는 내가 학부연구생으로써 처음 진행한 프로젝트(비록 중간에 투입된 것이지만)이면서 딥러닝을 배울 발판을 만들어준 프로젝트였다. 
