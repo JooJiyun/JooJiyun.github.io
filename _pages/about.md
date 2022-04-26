@@ -1,10 +1,10 @@
 ---
-title: "블로그 소개글"
+title: "소개"
 permalink: /about/
 layout: single
 ---
 
 
-## Joojiyun.github.io 블로그  
+## 안녕하세요! 
 
-Hi!
+개발 공부를 하고 있는 사람입니다.
