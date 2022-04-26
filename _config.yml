@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "주지윤"
+  name             : "Jiyun"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "인하대학교 **컴퓨터공학과**"
   location         : "Seoul, Korea"
