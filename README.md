@@ -1,2 +1,1 @@
-# joojiyun.github.io
-joojiyun@github.io
+[Go To Page](https://JooJiyun.github.io) 
